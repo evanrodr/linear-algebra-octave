@@ -1,19 +1,19 @@
 %%% VECTOR-VECTOR MULTIPLICATION USING DOT PRODUCT
 
-% Creating Vectors
+% creating Vectors
 v1 = [ 1 2 3 4 5 ]
 v2 = [ 0 -4 -3 6 5] 
 
-% First method 
+% first method 
 dp = sum(v1 .* v2)
 
-% Second method 
+% second method 
 dp = dot(v1, v2)
 
-% Third method
+% third method
 dp = v1*v2'
 
-% Fourth method 
+% fourth method 
 dp = 0; % reseting dp variable
 
 % looping over elements
