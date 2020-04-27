@@ -1,4 +1,4 @@
-%%% CODE CHALLENGE 1
+%%% CODE CHALLENGE 01
 
 % create 2 4x6 matrices of random numbers.
 % Use a for-loop to compute dot product between corresponding columns 
