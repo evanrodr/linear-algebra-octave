@@ -20,6 +20,6 @@ axis square
 axis([ -1 1 -1 1] * norm(v1))
 hold on
 plot(get(gca, 'xlim'), [0 0], 'k--')
-plot([0 0], get(gca, 'ylim'), 'k--')´
+plot([0 0], get(gca, 'ylim'), 'k--')
 xlabel('X_1 dimension')
 ylabel('X_2 dimension')
