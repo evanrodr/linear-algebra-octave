@@ -1,4 +1,6 @@
-%%% DOT PRODUCT BETWEEN UNIT VECTORS
+%%% CODE CHALLENGE 04
+
+% dot product between unit vectors
 
 % creating two random-integer vectors (R4)
 n = 4;
